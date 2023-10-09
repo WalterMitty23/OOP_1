@@ -3,7 +3,7 @@ public class Hufflepuff extends Hogwards{
     private int loyalty;
     private int honesty;
 
-    public Hufflepuff(int magicPower, int transgressionDistance, int diligence, int loyalty, int honesty) {
+    public Hufflepuff(int magicPower, int  transgressionDistance, int diligence, int loyalty, int honesty) {
         super(magicPower, transgressionDistance);
         this.diligence = diligence;
         this.loyalty = loyalty;

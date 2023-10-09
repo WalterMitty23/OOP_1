@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        Griffindor harryPotter = new Griffindor(80, 50, 90, 85, 95);
+        Griffindor harryPotter = new Griffindor(80,  50, 90, 85, 95);
         Griffindor hermioneGranger = new Griffindor(85, 45, 95, 90, 100);
         Griffindor ronWeasley = new Griffindor(95, 55, 80, 95, 85);
 

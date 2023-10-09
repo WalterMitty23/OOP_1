@@ -24,7 +24,7 @@ public class Griffindor extends Hogwards {
 
     @Override
     public String toString() {
-        return super.toString() + ", Благородство: " + nobility + ", Честь: " + honor + ", Храбрость: " + bravery;
+        return super.toString() + ", Благородство : " + nobility + ", Честь: " + honor + ", Храбрость: " + bravery;
     }
 
     public static void compareGriffindorStudents(Griffindor student1, Griffindor student2) {

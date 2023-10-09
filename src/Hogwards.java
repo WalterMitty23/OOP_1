@@ -11,7 +11,7 @@ public class Hogwards {
         return magicPower;
     }
 
-    public int getTransgressionDistance() {
+    public int  getTransgressionDistance() {
         return transgressionDistance;
     }
 
